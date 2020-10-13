@@ -69,7 +69,7 @@ const ContactForm = () => {
         onChange={onChange}
       />
       <input
-        type='phone'
+        type='text'
         placeholder='Phone'
         name='phone'
         value={phone}
